@@ -58,3 +58,46 @@ The dataset contains clinical characteristics and follow-up information for pati
 - Examine model coefficients to explore the direction and relative magnitude of associations.
 
 ### 5. Results
+Results will be documented after executing the analysis and reviewing the generated outputs.
+
+Planned outputs include:
+
+Clinical feature distributions
+
+Correlation analysis
+
+Statistical comparisons between outcome groups
+
+Logistic regression evaluation metrics
+
+Visualizations of model coefficients
+
+### Limitations
+
+The dataset contains only 299 patients, limiting the generalizability of findings.
+
+The analysis is observational and cannot establish causal relationships.
+
+Statistical associations do not demonstrate that a clinical characteristic causes a death event.
+
+Model performance on a single train-test split may be unstable and requires further validation.
+
+This exploratory model is not intended for clinical decision-making or individual patient risk assessment.
+
+### Ethical Considerations
+
+This project uses a publicly available dataset for educational and research purposes. No individual patient-identifying information is intentionally used in the analysis.
+
+### Project Status
+
+Status: Initial implementation and exploratory analysis.
+
+Results and interpretations will be added after the code has been executed and the outputs have been reviewed.
+
+### Author
+
+Hatice İLHAN 
+
+### Acknowledgements
+
+The dataset is provided by the UCI Machine Learning Repository. All dataset rights and terms of use remain subject to the original source.
